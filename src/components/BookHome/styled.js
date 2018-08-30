@@ -9,8 +9,8 @@ export const List = styled.ul`
 List.displayName = 'List';
 
 export const ListItem = styled.li`
-  fontsize: 25px;
-  lineheight: 25px;
+  font-size: 25px;
+  line-height: 25px;
   padding: 0.8rem;
 
   &:hover {
